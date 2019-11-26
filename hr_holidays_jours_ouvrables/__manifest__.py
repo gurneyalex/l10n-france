@@ -8,6 +8,7 @@
  'license': 'AGPL-3',
  'category': 'French Localization',
  'depends': ['hr_holidays',
+             'hr_contract',
              'hr_public_holidays',  # OCA/hr
              'hr_holidays_compute_days',  # OCA/hr
              ],
